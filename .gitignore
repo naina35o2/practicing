@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# *.txt = All files with 'txt' extn will be ignored while committing
+#comment
